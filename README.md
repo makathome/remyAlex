@@ -1,6 +1,6 @@
-# RemyAlex 1.0
+# remyAlex 1.0
 
-**RemyAlex** è un semplice strumento progettato per facilitare la gestione dell'integrazione **alexa_media_player** su Home Assistant. Negli ultimi tempi, questa integrazione ha riscontrato problemi di stabilità,oltre che necessitare di reinstallazione (semplice rimozione) richiede un riavvio manuale ogni 10 minuti per funzionare in maniera stabile RemyAlex ti aiuta in fase di reinstallazione, in quanto l'id dell'integrazione cambierà e bisognerà aggiornare l'automazione con l'id corrispondente, basterà copiare l'automazione creata e sostituirla con la vecchia automazione, o semplicemente sostituire il vecchio id con quello nuovo.
+**remyAlex** è un semplice strumento progettato per facilitare la gestione dell'integrazione **alexa_media_player** su Home Assistant. Negli ultimi tempi, questa integrazione ha riscontrato problemi di stabilità,oltre che necessitare di reinstallazione (semplice rimozione) richiede un riavvio manuale ogni 10 minuti per funzionare in maniera stabile RemyAlex ti aiuta in fase di reinstallazione, in quanto l'id dell'integrazione cambierà e bisognerà aggiornare l'automazione con l'id corrispondente, basterà copiare l'automazione creata e sostituirla con la vecchia automazione, o semplicemente sostituire il vecchio id con quello nuovo.
 
 ## Funzionalità principali:
 
