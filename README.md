@@ -8,7 +8,7 @@
 - **Generazione Automazione**: Una volta trovato l'ID, il programma crea un file di testo contenente l'automazione per riavviare il componente ogni 10 minuti.
 - **Interfaccia Grafica Intuitiva**: L'utente può facilmente inserire l'indirizzo IP e la porta del server Home Assistant senza bisogno di competenze tecniche.
 
-Con RemyAlex, l'integrazione diventerà più stabile, ma richiederà la reinstallazione ogni volta che il componente darà problemi. Leggi sotto per ulteriori dettagli.
+Con remyAlex, l'integrazione diventerà più stabile, ma richiederà la reinstallazione ogni volta che il componente darà problemi. Leggi sotto per ulteriori dettagli.
 
 ## Requisiti
 
