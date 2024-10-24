@@ -12,7 +12,7 @@ Con RemyAlex, l'integrazione diventerà più stabile, ma richiederà la reinstal
 
 ## Requisiti
 
-Per utilizzare RemyAlex, assicurati di soddisfare i seguenti requisiti:
+assicurati di soddisfare i seguenti requisiti:
 
 - **Sistema Operativo**: Windows
 - **Installazione di Home Assistant**: È necessario avere Home Assistant correttamente installato e funzionante.
